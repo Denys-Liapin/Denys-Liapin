@@ -24,5 +24,10 @@ I am currently open to **research internships** and **academic mobility programs
 ## 📊 Featured Projects
 - [**DNA-Sequence-Comparator**](https://github.com/Denys-Liapin/DNA-Sequence-Comparator) — A universal Python CLI tool for comparative genomic analysis, SNP detection, and contextual mutation visualization.
 
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Denys-Liapin&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
 ---
 📫 **How to reach me:** denys.liapin@gmail.com
